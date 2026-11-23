@@ -1,3 +1,4 @@
+Runtime: 45ms
 class Solution(object):
     def containsDuplicate(self, nums):
         seen = {}
