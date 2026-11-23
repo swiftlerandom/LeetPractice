@@ -11,4 +11,13 @@ class Solution(object):
         return []
 
 
+"""
+Input
+nums = [2,7,11,15]
+target = 9
+
+Output = [0,1]
+Expected = [0,1]
+"""
+
 
