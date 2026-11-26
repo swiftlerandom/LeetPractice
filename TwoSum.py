@@ -1,4 +1,4 @@
-# Runtime: 2 ms
+# Runtime: 1 ms
 class Solution(object):
     def twoSum(self, nums, target):
         seen = {}
